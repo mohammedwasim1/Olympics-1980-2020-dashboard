@@ -8,7 +8,7 @@ Link to dataset: https://www.kaggle.com/datasets/nitishsharma01/olympics-124-yea
 ## **Objective**
 To determine the top achieving countries, in the Winter and Summer Olympics, over a fourty year period between 1980 - 2020. 
 
-Please note: Countries in my dataset/visuals are referred to as "Areas", due to the historic fracturing of combined regions e.g. USSR. The term "Areas" also serves an inclusive term for participating islands and teams such as: IOC Refugee Olympic Team.
+Please note: Countries in my dataset/visuals are referred to as "Areas", due to the inclusion of combined regions e.g. USSR. The term "Areas" also serves an inclusive term for participating islands and teams such as: IOC Refugee Olympic Team.
 
 ## **Justification**
 

@@ -13,3 +13,5 @@ Please note: Countries in my dataset/visuals are referred to as "Areas", due to 
 ## **Justification**
 
 By tracking the performance of the top countries in the Olympics, other nations can use the data as a benchmark for their own performance. It helps countries set realistic goals and targets for their athletes and national sports programs. By studying the successes and failures of leading nations, aspiring countries can identify areas for improvement and develop strategies to enhance their own sporting achievements.
+
+## **Steps taken**

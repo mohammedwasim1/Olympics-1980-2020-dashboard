@@ -21,9 +21,13 @@ By tracking the performance of the top countries in the Olympics, other nations 
 **Data cleaning**
   
   Removed unneccessary columns which would not aid analysis.
+  
   Eliminated null values from the dataset. Null values existed for some athletes ages.
+  
   Excluded athletes who did not achieve any medals.
+  
   Combined sports types into the main discipline e.g. Rhythmic Gymnasitcs would be changed to Gymnastics.
+  
   Removed duplicates.
   
 **Dashboard preperation**
@@ -33,6 +37,7 @@ By tracking the performance of the top countries in the Olympics, other nations 
 **Visualisations**
   
   Employed the use of appropriate chart types to represent my data accurately and intuitively. These included: Line Chart, Stacked Bar Chart and others.
+  
   Enabled filters on most charts to only include top performing countries, as it made the visuals relevant to my objective.
   
 ## **Key insights**

@@ -15,9 +15,11 @@ By tracking the performance of the top countries in the Olympics, other nations 
 
 ## **Steps taken**
 Data integration
+  
   Combined the Summer and Winter dataset (CSV files) into one dataset, through Power Query.
 
 Data cleaning
+  
   Removed unneccessary columns which would not aid analysis.
   Eliminated null values from the dataset. Null values existed for some athletes ages.
   Excluded athletes who did not achieve any medals.
@@ -25,8 +27,10 @@ Data cleaning
   Removed duplicates.
   
 Dashboard preperation
+  
   Created measures, using DAX, to perform calculations on my data to derive new insights. For instance, a Measure was created to obtain the total amount of medals from all   competititons. 
   
 Visualisations
+  
   Employed the use of appropriate chart types to represent my data accurately and intuitively. These included: Line Chart, Stacked Bar Chart and others.
   Enabled filters on most charts to only include top performing countries, as it made the visuals relevant to my objective.

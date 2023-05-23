@@ -34,3 +34,5 @@ By tracking the performance of the top countries in the Olympics, other nations 
   
   Employed the use of appropriate chart types to represent my data accurately and intuitively. These included: Line Chart, Stacked Bar Chart and others.
   Enabled filters on most charts to only include top performing countries, as it made the visuals relevant to my objective.
+  
+## **Key insights**

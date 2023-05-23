@@ -49,3 +49,5 @@ By tracking the performance of the top countries in the Olympics, other nations 
   When analysing countries medal achievements by the Winter Season, countries with colder climates entered the top five positions. These include:   Canada, Finland and Sweden.
 
   Countries attain a greater number of medals, when the Olympic Games are hosted in their own city.
+  
+  ## **Recommendations**

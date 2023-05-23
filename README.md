@@ -14,11 +14,11 @@ Please note: Countries in my dataset/visuals are referred to as "Areas", due to 
 By tracking the performance of the top countries in the Olympics, other nations can use the data as a benchmark for their own performance. It helps countries set realistic goals and targets for their athletes and national sports programs. By studying the successes and failures of leading nations, aspiring countries can identify areas for improvement and develop strategies to enhance their own sporting achievements.
 
 ## **Steps taken**
-Data integration
+**Data integration**
   
   Combined the Summer and Winter dataset (CSV files) into one dataset, through Power Query.
 
-Data cleaning
+**Data cleaning**
   
   Removed unneccessary columns which would not aid analysis.
   Eliminated null values from the dataset. Null values existed for some athletes ages.
@@ -26,11 +26,11 @@ Data cleaning
   Combined sports types into the main discipline e.g. Rhythmic Gymnasitcs would be changed to Gymnastics.
   Removed duplicates.
   
-Dashboard preperation
+**Dashboard preperation**
   
   Created measures, using DAX, to perform calculations on my data to derive new insights. For instance, a Measure was created to obtain the total amount of medals from all   competititons. 
   
-Visualisations
+**Visualisations**
   
   Employed the use of appropriate chart types to represent my data accurately and intuitively. These included: Line Chart, Stacked Bar Chart and others.
   Enabled filters on most charts to only include top performing countries, as it made the visuals relevant to my objective.
